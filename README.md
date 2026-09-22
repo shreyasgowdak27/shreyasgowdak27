@@ -1,82 +1,100 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=+Hi+there%2C+I%27m+Shreyas+Gowda+%F0%9F%91%8B+;+Python+Full-Stack+%26+Generative+AI+Developer+;+Building+LLM-Integrated+Systems+That+Ship+;+Java+%2B+Spring+Boot+%7C+React+%7C+PostgreSQL+%7C+Docker+" alt="Typing SVG" />
+<a href="https://github.com/shreyasgowdak27">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Shreyas+Gowda+%F0%9F%91%8B;Python+Developer+%7C+ML+%26+Generative+AI;Building+Intelligent+Systems+That+Ship;Machine+Learning+%7C+RAG+%7C+Web+Development;Turning+Data+%26+AI+into+Practical+Applications" alt="Typing SVG" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shreyasgowdak27&color=38BDF8&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/shreyasgowdak27?style=flat-square&color=38BDF8&label=Followers)](https://github.com/shreyasgowdak27)
-[![Support via UPI](https://img.shields.io/badge/Support-UPI-38BDF8?style=flat-square&logo=googlepay&logoColor=white)](upi://pay?pa=gshreyas151@oksbi&pn=ShreyasGowda&cu=INR)
+<br>
+
+<a href="https://www.linkedin.com/in/shreyas-gk">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8" />
+</a>
+&nbsp;
+<a href="https://github.com/shreyasgowdak27">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=38BDF8" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shreyasgowdak27&color=38BDF8&style=flat-square&label=VISITORS" />
 
 </div>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-I'm a Software Engineering student specializing in **Python Full-Stack & Generative AI Development** — I design applications end-to-end, optimize algorithmic workflows, and integrate LLMs into systems built to run in production, not just in notebooks.
+### Python Developer focused on Machine Learning, Data & Generative AI
+
+I build **Python-based intelligent applications** across Machine Learning, Data, Web Development, and Generative AI — turning data and models into functional applications rather than keeping them confined to notebooks.
+
+My work combines **ML pipelines, predictive systems, RAG-based applications, APIs, databases, and modern web interfaces**.
 
 ```text
 $ whoami
-> Shreyas Gowda — Full-Stack Engineer & GenAI Developer
+> Shreyas Gowda — Python Developer | ML & AI
 
-$ cat core_stack.txt
-> Python (Advanced Logic/OOP) · Java · Spring Boot · Spring JDBC
-> React · JavaScript · PostgreSQL · MySQL · Docker Compose
+$ core_domains
+> Machine Learning · Data · Generative AI · Web Development
 
-$ cat current_focus.txt
-> Building applications, optimizing algorithmic workflows,
-> and integrating LLMs into functional, scalable systems.
+$ primary_stack
+> Python · Scikit-learn · RAG · LLM Applications
+> MySQL · MongoDB · JavaScript · React
+
+$ additional_stack
+> Java · C · HTML · CSS
+
+$ current_focus
+> ML systems · RAG applications
+> LLM integration · Data pipelines
+> AI-powered web applications · Full-stack development
 ```
 
-- 🛠️ Backend depth in **Java + Spring Boot/JDBC** paired with **Python** for advanced logic, ETL, and ML/AI pipelines
-- 🌐 Full-stack delivery with **React**, **PostgreSQL/MySQL**, containerized via **Docker Compose**
-- 🤖 Actively building **GenAI-integrated** systems — from data pipelines to LLM-powered automation
-- 📫 [LinkedIn](https://www.linkedin.com/in/shreyas-gk) · [GitHub](https://github.com/shreyasgowdak27)
+- 🤖 Building **Machine Learning applications** with Python across data preparation, feature engineering, modeling, evaluation, and application integration.
+- 🧠 Developing **Generative AI applications**, including an ML-driven system integrated with a **RAG chatbot** and other AI capabilities.
+- 📊 Working with **data pipelines, predictive modeling, and data-driven applications** to turn raw data into useful systems.
+- 🌐 Building **full-stack applications** using JavaScript and React, connecting interfaces with backend services, databases, and AI/ML functionality.
+- 🛒 Currently developing a **full-stack furniture e-commerce application**, combining frontend, backend, database, and product-oriented application development.
+- ⚙️ Using **Python as my primary development language**, alongside Java and C, with experience across backend, data, ML, AI, and frontend development.
+- 🚀 Focused on building software that moves beyond experiments and prototypes toward **usable, maintainable applications**.
 
 ---
 
-### ⚙️ Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="42" height="42"/>&nbsp;
-</p>
-
----
-
-### 🚀 Featured Work
+## ⚙️ Technical Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**🔀 Orchestrate — WhatsApp Notification Router**
-Multimodal message-routing system (notify / digest / mute) built for the HackerRank Orchestrate hackathon, using LLMs and VLMs to classify and prioritize incoming WhatsApp messages in real time.
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**📦 [Predictive E-Commerce Logistics Pipeline](https://github.com/shreyasgowdak27/predictive-ecommerce-logistics-pipeline)**
-End-to-end decoupled data pipeline processing 96,000+ transaction records — MySQL ETL via SQLAlchemy, a class-weight-balanced Random Forest model predicting delivery latency (77% accuracy on a 92/8 imbalanced dataset), served through a FastAPI microservice.
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-**✈️ [Aerospace Data Platform](https://github.com/shreyasgowdak27/aerospace-data-platform)**
-Containerized ETL platform ingesting live REST telemetry, flattening nested JSON into relational schemas, and streaming into a PostgreSQL instance orchestrated with Docker Compose — with idempotent UPSERT-based data integrity.
+<tr>
+<td valign="top" width="50%">
+
+### Data & AI
+
+`Machine Learning` · `Scikit-learn`  
+`Generative AI` · `RAG` · `LLM Applications`  
+`Data Analysis` · `Predictive Modeling`
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**More in progress:** TeleRetain AI (churn-prediction dashboard) and ArtisanLoft (furniture e-commerce SaaS) — actively being built out toward my data science portfolio.
+### Databases & Engineering
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git" />
 
 </td>
 </tr>
@@ -84,41 +102,192 @@ Containerized ETL platform ingesting live REST telemetry, flattening nested JSON
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Selected Engineering Work
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 ML + RAG Intelligent System
+
+**Machine Learning · Generative AI · RAG**
+
+An end-to-end intelligent application combining **machine learning with a RAG-powered chatbot**, designed to transform predictive insights and contextual information into an interactive AI-driven system.
+
+**Focus**
+
+- Machine learning pipeline
+- Predictive modeling
+- RAG architecture
+- LLM integration
+- AI-powered interaction
+
+`Python` `ML` `RAG` `LLM` `AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛋️ Full-Stack Furniture Application
+
+**Web Development · E-Commerce · Full Stack**
+
+A full-stack furniture application currently under development, focused on building a complete product experience rather than a static frontend.
+
+**Focus**
+
+- Product catalogue
+- Frontend experience
+- Backend integration
+- Database-driven application
+- Full-stack architecture
+
+`JavaScript` `React` `HTML` `CSS` `Database`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📦 Predictive E-Commerce Logistics Pipeline
+
+**Data Engineering · Machine Learning · APIs**
+
+End-to-end data pipeline processing **96,000+ transaction records**, with SQL-based ETL, feature engineering, machine learning, and a FastAPI prediction service.
+
+**Stack**
+
+`Python` `MySQL` `SQLAlchemy`  
+`Scikit-learn` `Random Forest` `FastAPI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✈️ Aerospace Data Platform
+
+**ETL · REST APIs · PostgreSQL · Docker**
+
+Containerized data platform ingesting REST telemetry, transforming nested JSON into relational structures, and loading data into PostgreSQL with idempotent database operations.
+
+**Stack**
+
+`Python` `REST API` `PostgreSQL`  
+`Docker Compose` `ETL`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🎯 Currently Building
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  01  ML + RAG APPLICATION                                   │
+│      Machine Learning + predictive systems + RAG + LLM      │
+│                                                             │
+│  02  FULL-STACK FURNITURE PLATFORM                          │
+│      React + backend + database + e-commerce workflows      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+My current focus is on combining **intelligent systems with practical software engineering** — from data and ML pipelines to AI-powered applications and full-stack products.
+
+---
+
+## 🧩 What I Like Building
+
+```text
+        DATA
+         │
+         ▼
+   ┌─────────────┐
+   │  ML MODELS  │
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐       ┌─────────────┐
+   │  AI / RAG   │──────▶│   BACKEND   │
+   └─────────────┘       └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │  WEB / API  │
+                         └─────────────┘
+```
+
+I am particularly interested in systems where **data, machine learning, AI, backend services, and user-facing applications work together as one product**.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shreyasgowdak27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasgowdak27&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyasgowdak27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasgowdak27&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=tokyonight" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=tokyonight&hide_border=true" />
+
 </div>
 
-### 📈 Contribution Activity
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasgowdak27&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyasgowdak27&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasgowdak27&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
 </div>
 
 ---
 
-### 💬 Dev Quote
+## 🧭 Engineering Direction
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+```text
+Python
+  ├── Machine Learning
+  ├── Data & Predictive Systems
+  ├── Generative AI
+  │     ├── RAG
+  │     ├── LLM Applications
+  │     └── AI-powered Automation
+  │
+  └── Web & Backend
+        ├── APIs
+        ├── Databases
+        └── Full-Stack Applications
+```
+
+**Building toward:** intelligent, data-driven software that is practical, deployable, and useful beyond the development environment.
 
 ---
 
 <div align="center">
 
-☕ **Support my work** — [Pay via UPI](upi://pay?pa=gshreyas151@oksbi&pn=ShreyasGowda&cu=INR) · `gshreyas151@oksbi`
+### Let's build something useful.
 
-⭐️ From [shreyasgowdak27](https://github.com/shreyasgowdak27)
+<a href="https://www.linkedin.com/in/shreyas-gk">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0F172A" />
+</a>
+
+<br><br>
+
+<sub>Python · Machine Learning · Generative AI · Web Development</sub>
 
 </div>
