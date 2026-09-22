@@ -21,6 +21,16 @@
 </div>
 
 ---
+<!-- LIVE DEVELOPMENT STATUS -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=1000&color=FF3B4F&center=true&vCenter=true&repeat=true&width=720&height=45&lines=%F0%9F%94%B4+IN+PROGRESS...;%E2%96%B6+Furniture+Application+%7C+BUILDING+NOW;%E2%96%B6+TeleRetain-AI+%7C+BUILDING+NOW;%F0%9F%94%B4+LIVE+DEVELOPMENT...;%E2%96%B6+BUILDING+%E2%80%A2+TESTING+%E2%80%A2+ITERATING" />
+
+</div>
+
+<br>
+---
 
 ## 🧠 About Me
 
@@ -100,8 +110,6 @@ $ current_focus
 </tr>
 </table>
 
----
-
 ## 🚀 Selected Engineering Work
 
 <table>
@@ -153,6 +161,22 @@ A full-stack furniture application currently under development, focused on build
 
 <td width="50%" valign="top">
 
+### 📱 WhatsApp Notification Router
+
+**LLM Automation · Multimodal AI · Intelligent Routing**
+
+AI-powered notification routing system that analyzes WhatsApp-style messages using context, retrieval, and LLM reasoning to determine whether a message should be **Notify, Digest, or Mute**.
+
+<a href="https://github.com/shreyasgowdak27/whatsapp-notification-router">
+  <img src="https://img.shields.io/badge/View%20Repository-38BDF8?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+`Python` `LLM` `TF-IDF` `Gemini` `AI Automation`
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 📦 Predictive E-Commerce Logistics Pipeline
 
 **Data Engineering · Machine Learning · APIs**
@@ -165,6 +189,10 @@ End-to-end data pipeline processing **96,000+ transaction records**, with SQL-ba
 `Scikit-learn` `Random Forest` `FastAPI`
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -181,8 +209,8 @@ Containerized data platform ingesting REST telemetry, transforming nested JSON i
 
 </td>
 
-</tr>
-</table>
+<td width="50%" valign="top">
+
 
 ---
 
@@ -233,17 +261,9 @@ I am particularly interested in systems where **data, machine learning, AI, back
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyasgowdak27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shreyasgowdak27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasgowdak27&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasgowdak27&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -251,7 +271,15 @@ I am particularly interested in systems where **data, machine learning, AI, back
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasgowdak27&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img height="180" src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasgowdak27&theme=tokyo-night&hide_border=true&area=true&height=300" width="95%" />
 
 </div>
 
