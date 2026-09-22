@@ -275,15 +275,6 @@ I am particularly interested in systems where **data, machine learning, AI, back
 <img height="180" src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasgowdak27&theme=tokyo-night&hide_border=true&area=true&height=300" width="95%" />
-
-</div>
-
 ---
 
 ## 🧭 Engineering Direction
