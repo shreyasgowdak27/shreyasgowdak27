@@ -208,7 +208,8 @@ Containerized data platform ingesting REST telemetry, transforming nested JSON i
 `Docker Compose` `ETL`
 
 </td>
-
+</tr>
+</table>
 <td width="50%" valign="top">
 
 
