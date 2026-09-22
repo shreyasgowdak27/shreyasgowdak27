@@ -93,9 +93,14 @@ Containerized ETL platform ingesting live REST telemetry, flattening nested JSON
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasgowdak27&layout=compact&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<!-- Hide "Total Contributions" and just show streaks -->
+<img src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=tokyonight&hide_border=true" />
+
+<!-- Different theme (e.g. dark) -->
+<img src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=dark" />
+
+<!-- Custom date range for streak counting -->
+<img src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=tokyonight&date_format=%5Bj%20M%5D" />
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shreyasgowdak27&theme=tokyonight&no-frame=true&row=1&column=7" />
