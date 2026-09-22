@@ -36,15 +36,8 @@ My focus centers on constructing robust architectural patterns, writing performa
 
 ---
 
-## 🛠️ Tech Stack & Competencies
 
-![Python](https://shields.io)
-![Java](https://shields.io)
-![Spring Boot](https://shields.io)
-![React](https://shields.io)
-![Docker](https://shields.io)
-![PostgreSQL](https://shields.io)
 
----
+
 
 📬 **Find my complete technical roadmap on LinkedIn or connect right here through my open-source repositories!**
