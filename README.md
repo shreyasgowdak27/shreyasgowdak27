@@ -36,13 +36,14 @@ My focus centers on constructing robust architectural patterns, writing performa
 
 ---
 
-## 📈 My Live Coding Analytics
-*(These widgets dynamically track my daily commits and language footprints!)*
+## 🛠️ Tech Stack & Competencies
 
-## 📈 Live Developer Activity
-<p align="center">
-  <img src="https://herokuapp.com" alt="Shreyas GitHub Streak" />
-</p>
+![Python](https://shields.io)
+![Java](https://shields.io)
+![Spring Boot](https://shields.io)
+![React](https://shields.io)
+![Docker](https://shields.io)
+![PostgreSQL](https://shields.io)
 
 ---
 
