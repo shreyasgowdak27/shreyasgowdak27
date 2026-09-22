@@ -37,17 +37,15 @@ $ cat current_focus.txt
 ### ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot / Spring JDBC" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="42" height="42"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker Compose" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="42" height="42"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="42" height="42"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="42" height="42"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="42" height="42"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="42" height="42"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="42" height="42"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="42" height="42"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="42" height="42"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="42" height="42"/>&nbsp;
 </p>
 
 ---
@@ -93,14 +91,15 @@ Containerized ETL platform ingesting live REST telemetry, flattening nested JSON
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasgowdak27&layout=compact&theme=tokyonight"/>
 </div>
 
-<!-- Hide "Total Contributions" and just show streaks -->
-<img src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
-<!-- Different theme (e.g. dark) -->
-<img src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=dark" />
+### 📈 Contribution Activity
 
-<!-- Custom date range for streak counting -->
-<img src="https://streak-stats.demolab.com/?user=shreyasgowdak27&theme=tokyonight&date_format=%5Bj%20M%5D" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasgowdak27&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shreyasgowdak27&theme=tokyonight&no-frame=true&row=1&column=7" />
