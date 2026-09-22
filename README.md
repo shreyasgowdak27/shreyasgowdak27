@@ -39,9 +39,10 @@ My focus centers on constructing robust architectural patterns, writing performa
 ## 📈 My Live Coding Analytics
 *(These widgets dynamically track my daily commits and language footprints!)*
 
-![Shreyas's GitHub Stats](https://vercel.app)
+<img src="https://vercel.app" alt="GitHub Stats" />
 
-![Shreyas's Top Languages](https://vercel.app)
+<img src="https://vercel.app" alt="Top Languages" />
+
 
 ---
 
